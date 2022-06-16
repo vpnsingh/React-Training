@@ -1,0 +1,25 @@
+{
+  "mobiles": [
+    {
+      "name": "OnePlus 9R",
+      "price": "37,999",
+      "quantity": "15",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-9r.jpg",
+      "id": 1
+    },
+    {
+      "name": "Google Pixel 5a 5G",
+      "price": "39,600",
+      "quantity": "30",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-5a-5g.jpg",
+      "id": 2
+    },
+    {
+      "name": "Apple iPhone 13 Pro Max",
+      "price": "13000",
+      "quantity": "5",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-pro-max.jpg",
+      "id": 3
+    }
+  ]
+}
